@@ -1,0 +1,2 @@
+- [Increasing_triplet_subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/?envType=study-plan-v2&envId=leetcode-75)       
+    - [C++ Solution, ](https://github.com/OsamaX01/the-solver-factory/blob/main/lecture2/solutions/Increasing_triplet_subsequence.cpp) [Java Solution, ](https://github.com/OsamaX01/the-solver-factory/blob/main/lecture2/solutions/Increasing_triplet_subsequence.java) [Python Solution](https://github.com/OsamaX01/the-solver-factory/blob/main/lecture2/solutions/Increasing_triplet_subsequence.py)

@@ -1,0 +1,3 @@
+- [Reverse Words](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75)
+- [String Compression](https://leetcode.com/problems/string-compression/description/?envType=study-plan-v2&envId=leetcode-75)
+- [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)

@@ -32,9 +32,10 @@ int main(){
  
     int i = 0, n = 100, m = 100;
  
-    // 
+    // O(n)
     for (int i = 1; i <= n; i++) {
         // constant time code here
+        cout << a + b << '\n'; // O(1)
     }
  
     while (i < n) {
@@ -42,34 +43,36 @@ int main(){
         i++;
     }
  
+    // O(n)
     for (int i = 1; i <= 5 * n + 17; i++) {
         // constant time code here
     }
  
+    // O(max(n, 457737))
     for (int i = 1; i <= n + 457737; i++) {
         // constant time code here
     }
  
-    // 
+    // O(n * m) 
     for (int i = 1; i <= n; i++) {
         for (int j = 1; j <= m; j++) {
             // constant time code here
         }
     }
  
-    // 
+    // O(log2(n))
     for (int i = 1; i < n; i *= 2) {
         // constant time code here
     }
  
-    // 
+    // o(nlogn)
     for (int i = 0; i < n; i++) {
         for (int j = 1; j < n; j *= 2) {
             // constant time code here
         }
     }
  
-    // 
+    // O(n * log2(n) * log2(n)) 
     for (int i = 0; i < n; i++) {
         for (int j = 1; j < n; j *= 2) {
             for (int k = n; k > 0; k /= 2) {
@@ -78,14 +81,14 @@ int main(){
         }
     }
  
-    // 
+    // O(n * (n +1) / 2) = O(n * n)
     for (int i = 1; i <= n; i++) {
         for (int j = i; j <= n; j++) {
             // constant time code here
         }
     }
  
-    //
+    // O(N * N + M)
     for (int i = 1; i <= n; i++) {
         for (int j = 1; j <= n; j++) {
             // constant time code here
@@ -95,14 +98,14 @@ int main(){
         // more constant time code here
     }
  
-    // 
+    // O(sqrt(n))
     for (int i = 0; i * i <= n; i++) {
         // constant time code here
     }
  
     n = 10;
  
-    // 
+    // O(2 ^ n)
     for (int i = 0; i < pow(2, n); i++) {
         // constant time code here
     }
