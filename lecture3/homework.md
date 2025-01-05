@@ -1,0 +1,3 @@
+- [top k frequent elemnts [Important]](https://leetcode.com/problems/top-k-frequent-elements/description/)
+- [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75)
+- [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75)
