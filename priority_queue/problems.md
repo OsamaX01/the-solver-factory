@@ -1,0 +1,5 @@
+- https://leetcode.com/problems/maximum-subsequence-score/description/
+- https://leetcode.com/problems/k-closest-points-to-origin/description/
+- https://leetcode.com/problems/last-stone-weight/
+- https://leetcode.com/problems/total-cost-to-hire-k-workers
+- https://leetcode.com/problems/kth-largest-element-in-an-array
