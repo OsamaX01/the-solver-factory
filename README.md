@@ -70,4 +70,44 @@ Ramp up by solving simple problems with no prerequisites.
 - [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75)
 - [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75)
 
-## Part 5: TBC.
+## Part 5: Stack & Queue 
+
+### Resources
+
+- [Very Good Stack & Stack Applications video](https://www.youtube.com/watch?v=L3ud3rXpIxA)
+- [Queue video](https://www.youtube.com/watch?v=KxzhEQ-zpDc)
+
+### Essentials
+
+- [valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)       
+- [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)       
+- [B. Lucky Numbers (easy)](https://codeforces.com/contest/96/problem/B)       
+
+### HomeWork 
+
+- [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)
+- [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)
+- [Decode String](https://leetcode.com/problems/decode-string/description/)
+- [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
+- [CSES - Stack](https://cses.fi/alon/task/1645)
+- [Min Stack](https://leetcode.com/problems/min-stack/description/)
+
+## Part 6: Two Pointers
+
+### Resources
+- [Book](https://darrenyao.com/usacobook/cpp.pdf#page=70)
+
+### Essentials 
+- [Guess Number](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
+- [Koko](https://leetcode.com/problems/koko-eating-bananas/)
+- [Factory](https://cses.fi/problemset/task/1620)
+- [Towers](https://cses.fi/problemset/task/1073/)
+
+### HomeWork 
+- [Queries](https://codeforces.com/contest/600/problem/B)
+- [Successful Pairs](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
+- [Find Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+- [Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)
+- [Beauty](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/?envType=problem-list-v2&envId=binary-search)
+
+## Part 7: To Be done 
